@@ -38,6 +38,8 @@ Key Settings in config.lua:
 lua
 Copy
 
+
+```
 Config = {
   Debug = false,
   DefaultLanguage = "en", -- Supports "en" and "lt"
@@ -61,8 +63,8 @@ Config = {
   Jobs = { -- Jobs allowed to free zones (e.g., law enforcement)
     ["marshal"] = true,
     ["police"] = true
-  }
-}
+
+    ```
 
 🎮 Usage
 Bandits 🏴‍☠️
