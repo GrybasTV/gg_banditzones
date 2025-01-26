@@ -131,4 +131,5 @@ Copy
 **🔥 Download now and let the chaos begin!**  
 *Perfect for servers craving drama, politics, and Wild West vendettas.*
 
-New chat
+Discord: 
+https://discord.gg/KxSBTYr5wS
