@@ -64,7 +64,7 @@ Config = {
     ["marshal"] = true,
     ["police"] = true
 
-    ```
+```    
 
 🎮 Usage
 Bandits 🏴‍☠️
