@@ -51,7 +51,7 @@ Config.Zones = {
 }
 
 --- Anyone can use this command to free the zone when they are in the zone
-Config.Commandfreezone = 'free'
+Config.Commandfreezone = 'freezone'
 
 Config.Jobs = {
     ['valsheriff'] = true,
