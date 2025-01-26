@@ -1,6 +1,3 @@
-markdown
-Copy
-
 # 🔥 Bandit Zones 🔥 
 **Dynamic Zone Control for RedM RP Servers**  
 *"Where Control Means Power—and Everyone Pays the Price."*
