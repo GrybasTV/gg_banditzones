@@ -255,7 +255,7 @@ function AtliktiMokejima(zoneId, playerId)
         if onlineCount >= Config.Tax.minPlayersForReward then
             for _, reward in ipairs(zone.rewards.items) do
                 VorpInv.addItem(playerId, reward.name, reward.amount)
-                local itemName = GetTranslation("Items." .. reward.name) or reward.name
+              local itemName = GetTranslation("Items." .. (reward.name:gsub("^%l", string.upper))) or reward.name
                 -- Įrašome išverstą daikto pavadinimą į rewards masyvą
                 table.insert(receivedRewards, {name = itemName, amount = reward.amount})
                 TriggerClientEvent("vorp:Tip", playerId, 
